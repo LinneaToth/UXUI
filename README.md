@@ -2,6 +2,8 @@
 
 Deliverables and takeaways from our UX/UI course, as part of a two year Higher Vocal Education (Yrkeshögskola) in Frontend Development with React.
 
+👇 **Scroll for images!** 
+
 ## Takeaways and acquired skills:
 - **Proficiency with Figma:** Creating wireframes, high-fidelity mockups, and interactive prototypes for web and mobile interfaces. FigJam for interactive workshops, brainstorming and mapping within teams.
 - **Industry specific terminology:** Mastering core concepts such as UX/UI, accessibility, usability, and information architecture.
