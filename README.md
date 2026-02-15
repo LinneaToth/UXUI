@@ -1,4 +1,4 @@
-# UX/UI - WIP 🤓✏️
+# UX/UI
 
 Deliverables and takeaways from our UX/UI course, as part of a two year Higher Vocal Education (Yrkeshögskola) in Frontend Development with React.
 
@@ -24,9 +24,9 @@ Deliverables and takeaways from our UX/UI course, as part of a two year Higher V
 - **Design documents** for pin-pointing the design through colour schemes, typography and mannerism
 - 
 
-## Gallery
+## Snapshots from the course
 
 |||
 |-|-|
-| ![Mockup made by me, of an index view in a toy library app](./img/leksaksbibliotek_register_mockup.png) | ![Mockup made by me, of an index view in a toy library app](./img/leksaksbibliotek_register_mockup.png) | 
+| ![Mockup made by me, of an index view in a toy library app](./img/leksaksbibliotek_register_mockup.png) | ![Mockup made by me, of an dashboard in a clothing circle app](./img/vandrande_kassar_dashboard_mockup.png) | 
 
