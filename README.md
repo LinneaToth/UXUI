@@ -26,7 +26,7 @@ Deliverables and takeaways from our UX/UI course, as part of a two year Higher V
 - **Design documents** for pin-pointing the design through colour schemes, typography and mannerism
 - 
 
-## Snapshots from the course
+## Snapshots from the course, material made by me in group assignments
 
 |||
 |-|-|
