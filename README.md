@@ -1,6 +1,6 @@
 # Five full weeks of UX/UI focus
 
-Deliverables and takeaways from our UX/UI course, as part of a two year Higher Vocal Education (Yrkeshögskola) in Frontend Development with React.
+Deliverables and takeaways from our UX/UI course, as part of a two year Higher Vocational Education (Yrkeshögskola) in Frontend Development with React.
 
 👇 **Scroll for images!** 
 
@@ -15,16 +15,18 @@ Deliverables and takeaways from our UX/UI course, as part of a two year Higher V
 - **Visual Design Foundations in tech context:** Implementing visual hierarchy using size, color, typography, and "visual cues" to reduce cognitive load.
 - **Prototyping:** Developing both Low-fidelity (sketches/wireframes) and High-fidelity (pixel-perfect) models to communicate design intent.
 - **Usability Testing:** Evaluating designs through methods like "Thinking Aloud" gather actionable feedback.
+- **Design to code:** Shared ground and mindset for bridging the gap between design and code
 
-## Deliverables completed:
+## Deliverables:
 - **Empathy Maps** for user personas
 - **User Personas** representing specific target audiences
 - **User Journey Maps** documenting pain points and opportunities
+- **Affinity diagramming** for capturing and refining thoughts and ideas
 - **Flowcharts** illustrating user interactions and app architecture
 - **High-fidelity Mockups** created in Figma with a focus on Gestalt principles and the practical application of UX-laws
 - **Moodboards** for early concept communication
 - **Design documents** for pin-pointing the design through colour schemes, typography and mannerism
-- 
+- **Interactive prototypes** made in Figma
 
 ## Snapshots from the course
 Material made by me in group assignments!
@@ -36,5 +38,5 @@ Material made by me in group assignments!
 Snapshots from the teamwork! 
 |||
 |-|-|
-| ![Mockup made by me, of an index view in a toy library app](./img/leksaksbibliotek_register_mockup.png) | ![Mockup made by me, of an dashboard in a clothing circle app](./img/vandrande_kassar_dashboard_mockup.png) | 
+| ![From the iterative process of working on a toy library app](./img/leksaksbibliotek_process_group.png) | ![From the iterative process of working on a clothing circle app](./img/vandrande_process_group.png) | 
 
