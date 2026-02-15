@@ -1,4 +1,4 @@
-# UX/UI
+# Five full weeks of UX/UI focus
 
 Deliverables and takeaways from our UX/UI course, as part of a two year Higher Vocal Education (Yrkeshögskola) in Frontend Development with React.
 
@@ -32,4 +32,9 @@ Material made by me in group assignments!
 |-|-|
 | ![Mockup made by me, of an index view in a toy library app](./img/leksaksbibliotek_register_mockup.png) | ![Mockup made by me, of an dashboard in a clothing circle app](./img/vandrande_kassar_dashboard_mockup.png) | 
 | ![Deliverables made by me, in the process of working with a toy library app](./img/leksaksbibliotek_mina_deliverables.png) | ![Deliverables made by me, in the process of working with a toy library app](./img/vandrande_kassar_mina_deliverables.png) |
+
+Snapshots from the teamwork! 
+|||
+|-|-|
+| ![Mockup made by me, of an index view in a toy library app](./img/leksaksbibliotek_register_mockup.png) | ![Mockup made by me, of an dashboard in a clothing circle app](./img/vandrande_kassar_dashboard_mockup.png) | 
 
