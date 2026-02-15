@@ -26,5 +26,7 @@ Deliverables and takeaways from our UX/UI course, as part of a two year Higher V
 
 ## Gallery
 
-![Mockup made by me, of an index view in a toy library app](./img/leksaksbibliotek_register_mockup.png)
+|||
+|-|-|
+| ![Mockup made by me, of an index view in a toy library app](./img/leksaksbibliotek_register_mockup.png) | ![Mockup made by me, of an index view in a toy library app](./img/leksaksbibliotek_register_mockup.png) | 
 
