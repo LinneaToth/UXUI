@@ -31,4 +31,5 @@ Material made by me in group assignments!
 |||
 |-|-|
 | ![Mockup made by me, of an index view in a toy library app](./img/leksaksbibliotek_register_mockup.png) | ![Mockup made by me, of an dashboard in a clothing circle app](./img/vandrande_kassar_dashboard_mockup.png) | 
+| ![Deliverables made by me, in the process of working with a toy library app](./img/leksaksbibliotek_mina_deliverables.png) | ![Deliverables made by me, in the process of working with a toy library app](./img/vandrande_kassar_mina_deliverables.png) |
 
