@@ -7,7 +7,7 @@ Deliverables and takeaways from our UX/UI course, as part of a two year Higher V
 ## Takeaways and acquired skills:
 - **Proficiency with Figma:** Creating wireframes, high-fidelity mockups, and interactive prototypes for web and mobile interfaces. FigJam for interactive workshops, brainstorming and mapping within teams.
 - **Industry specific terminology:** Mastering core concepts such as UX/UI, accessibility, usability, and information architecture.
-- **WCAG:** POUR principles, contrasts, sizing and more
+- **WCAG:** Accessibility through POUR principles, contrasts, sizing and more
 - **Design thinking in a tech context:** Applying an iterative process through the stages of Empathize, Define, Ideate, Prototype, and Test with appropriate deliverables.
 - **Analysis and design based on gestalt principles and UX-laws**: Utilizing laws and principles to guide user focus.
 - **User research and Empathy:** Developing User Personas and Empathy Maps to understand user needs, behaviors, and pain points.
