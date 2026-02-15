@@ -24,5 +24,7 @@ Deliverables and takeaways from our UX/UI course, as part of a two year Higher V
 - **Design documents** for pin-pointing the design through colour schemes, typography and mannerism
 - 
 
-**To be continued ✏️**
+## Gallery
+
+![Mockup made by me, of an index view in a toy library app](./img/leksaksbibliotek_register_mockup.png)
 
